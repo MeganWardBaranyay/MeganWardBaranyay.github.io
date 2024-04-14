@@ -1,5 +1,12 @@
-# Megan Ward-Baranyay
-<img src="/img/profile.jpeg" width="150" height="150">
+<!--
+<img style="float: right;" src="/img/profile.jpeg" width="150" height="150">
+
+***
+
+![Megan's profile photo](/img/profile.png)
+
+<img style="float: right;" src="img/profile.png" width="25%">
+-->
 
 ### Ph.D. Student and NASA Climate Change Research Initiative Intern
 
