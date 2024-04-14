@@ -3,7 +3,7 @@
 
 ***
 
-![Megan's profile photo](/img/profile.png)
+![Megan's profile photo](/img/profile.jpeg)
 
 <img style="float: right;" src="img/profile.png" width="25%">
 -->
